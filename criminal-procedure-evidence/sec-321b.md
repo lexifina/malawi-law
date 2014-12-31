@@ -1,0 +1,2 @@
+# 321B. Effect of plea of guilty prior to verdict by jury
+If at any time after the accused is given in charge but before the verdict of the jury has been finally communicated to the judge the accused pleads guilty to any charge against him the judge may convict him of such charge as if the accused had pleaded guilty thereto before he had been given in charge of the jury and the jury shall be discharged from giving its verdict thereon.

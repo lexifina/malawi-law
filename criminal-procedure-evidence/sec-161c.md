@@ -1,0 +1,3 @@
+# 161C. Reckoning of time
+(1) For the purposes of this Part, time shall run upon the expiry of forty-eight hours after the arrest of an accused person, or if the period of forty-eight hours expires outside ordinary court hours or on a day which is not a court day, the first court day after such expiry.
+(2) Notwithstanding subsection (1), where an accused person is in lawful custody in relation to one offence and is subsequently charged with another offence not arising on the same facts or in the course of the same transaction, the time in relation to the subsequent offence shall run from the date when the accused person is charged with the offence.

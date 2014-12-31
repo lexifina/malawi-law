@@ -1,0 +1,3 @@
+# 321F. Failure of the jury to agree
+(1) When it sufficiently appears to the High Court that a jury cannot agree upon a verdict, and that there is not such a majority agreeing as may be taken as a verdict of the jury as hereinbefore provided, the High Court shall discharge such jury and shall as soon as is convenient cause a new jury to be empanelled and sworn and charged with any accused and the charge against such accused may be tried as if such first jury had not been empanelled.
+(2) If it sufficiently appears to the High Court that the new jury cannot reach a verdict, and that there is not such a majority agreeing as may be taken as a verdict of the jury as herein before provided, the High Court shall acquit the accused.

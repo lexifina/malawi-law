@@ -1,0 +1,2 @@
+# 5A. Civil suits by or against the Director
+Any civil suit arising from the exercise of the functions, duties and powers of the Bureau or the Director shall be instituted by or against the public office of the Director, but the provisions of the Civil Procedure (Suits by or against the Government or Public Officers) Act shall otherwise apply in respect of any such suit as they apply in respect of any suit by or against any other public officer.

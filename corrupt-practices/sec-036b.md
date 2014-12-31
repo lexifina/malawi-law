@@ -1,0 +1,2 @@
+# 36B. Value of property
+In any proceedings for an offence under this Part, the court may infer that property was obtained or derived as a result of the commission of an offence where there is evidence establishing that the value after the commission of the offence of all the property of the accused exceeds the value of all his property before the commission of the offence, and the court is satisfied that his income from sources unrelated to the offence he is alleged to have committed cannot reasonably account for that increase in value.

@@ -1,0 +1,2 @@
+# Long title
+An Act to provide for the making of wills and the devolution of property under a will; the inheritance to the estates of persons dying without valid wills; the protection of deceased estates; the administration of deceased estates; the prosecution of offences relating to deceased estates; the civic education of the public; the functions of courts in relation to deceased estates and for other connected matters

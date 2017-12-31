@@ -1,0 +1,11 @@
+# 78C. Consideration of objectives by the Valuation Tribunal
+(1) An aggrieved person who is not satisfied with the decision of the valuer under section 76, may appeal against the decision of the Valuer to the Valuation Tribunal.
+(2) The Valuation Tribunal shall, at a sitting duly called by the clerk, consider the appeal made under subsection (1).
+(3) The clerk shall send a notice of the date to the persons mentioned in subsection (3) not less than seven days before the day fixed for the consideration by the Valuation Tribunal of the appeal; but the Valuation Tribunal may hear the appeal at shorter notice if all the persons entitled to be heard on the appeal consent.
+(4) On the consideration of the appeal, the local government authority, the person who lodged the appeal and a rateable owner of the property, which is the subject of the appeal, may appear and be heard, either in person or by legal practitioner or an accredited representative, and may call and examine witnesses before the Valuation Tribunal.
+(5) After hearing the persons mentioned in subsection (3), or such of them as desire to be heard, the Valuation Tribunal shall confirm, or may amend the draft valuation roll or draft supplementary valuation roll, by way of reduction, increase, addition or omission, as it may consider appropriate.
+(6) Where the Valuation Tribunal has amended a draft valuation roll or draft supplementary valuation roll in accordance with subsection (4), the Valuation Tribunal may make further amendments to the roll, as it may consider appropriate, in consequence of the first-mentioned amendment:
+Provided that—
+(a) the further amendment by way of increase or addition shall not be made unless the rateable owner concerned has been given at least fourteen days' prior notice of the proposed amendment and of the date of the sitting of the Valuation Tribunal at which such amendment will be considered; and
+(b) the rateable owner may lodge an objection to such further amendment in writing, so as to reach the clerk not less than three days before the date of the sitting of the Valuation Tribunal at which such amendment will be considered.
+(7) The Valuation Tribunal shall consider the objections made under paragraph (b) of the proviso to subsection (5), and the provisions of subsection (3) shall apply, mutatis mutandis, in respect of those objections.

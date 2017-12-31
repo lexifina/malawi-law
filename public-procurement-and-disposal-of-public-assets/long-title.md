@@ -1,0 +1,2 @@
+# Long title
+An Act to provide for the establishment of the Public Procurement and Disposal of Assets Authority; to provide for its functions and powers; to maximize economy and efficiency in public procurement and disposal of public assets; to provide for, and regulate, a decentralized institutional structure for the public procurement and disposal of public assets; and to provide for matters connected with or incidental thereto

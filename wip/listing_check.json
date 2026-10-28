@@ -1,0 +1,23 @@
+{
+ "1994/20": {
+  "capture": "20260419060924",
+  "lii_current": "2020-11-03",
+  "listing": "https://malawilii.org/legislation/?page=6",
+  "ok": true,
+  "ours": "2020-11-03"
+ },
+ "1998/11": {
+  "capture": "20260517214347",
+  "lii_current": "2018-11-02",
+  "listing": "https://malawilii.org/legislation/?page=2",
+  "ok": true,
+  "ours": "2018-11-02"
+ },
+ "2023/10": {
+  "capture": "20260610092036",
+  "lii_current": "2025-09-05",
+  "listing": "https://malawilii.org/legislation/?page=5",
+  "ok": true,
+  "ours": "2025-09-05"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "acts": {
+  "constitution": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2017-12-31",
+    "units": 222
+   },
+   {
+    "changed": 7,
+    "credited": 7,
+    "from": "2020-11-03",
+    "units": 222
+   }
+  ],
+  "elections": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2025-09-05",
+    "units": 124
+   }
+  ],
+  "electoral-commission": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2014-12-31",
+    "units": 25
+   },
+   {
+    "changed": 10,
+    "credited": 10,
+    "from": "2018-11-02",
+    "units": 30
+   }
+  ]
+ },
+ "check": {
+  "acts": 3,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 5
+ },
+ "fidelity": {
+  "constitution@2017-12-31": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 222,
+   "units_differing": []
+  },
+  "constitution@2020-11-03": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 222,
+   "units_differing": []
+  },
+  "elections@2025-09-05": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 124,
+   "units_differing": []
+  },
+  "electoral-commission@2014-12-31": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 25,
+   "units_differing": []
+  },
+  "electoral-commission@2018-11-02": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 30,
+   "units_differing": []
+  }
+ },
+ "law_dates": {
+  "act-2018-32": {
+   "commenced": null,
+   "dated": [
+    "2018-11-02"
+   ]
+  },
+  "act-2020-13": {
+   "commenced": null,
+   "dated": [
+    "2020-11-03"
+   ]
+  }
+ }
+}

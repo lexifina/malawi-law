@@ -21,7 +21,7 @@
    "name": "MalawiLII (hosted by the Gender and Justice Unit, on the Laws.Africa Peachjam platform)",
    "url": "https://malawilii.org",
    "retrieved": "2026-10-28",
-   "requests": 40,
+   "requests": 51,
    "licence": "CC BY-NC 4.0, crediting MalawiLII as the source (https://malawilii.org/terms-of-use/)",
    "notes": "Point-in-time expressions of each act, /akn/mw/act/<year>/<num>/eng@<date>. MalawiLII's terms prohibit scraping and bulk downloading, so no MalawiLII page was fetched: each expression page is read from its latest Internet Archive capture (raw id_ form), and the capture timestamps and sha256s are pinned in sources.json. The request count is of Internet Archive requests."
   },
@@ -53,6 +53,17 @@
    "enacted": null,
    "published": null,
    "url": "https://malawilii.org/akn/mw/act/2020/13",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2025-32": {
+   "label": "Act 32 of 2025",
+   "title": "Presidential, Parliamentary and Local Government Elections",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://malawilii.org/akn/mw/act/2025/32",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -1490,7 +1501,9 @@
    "title": "Presidential, Parliamentary and Local Government Elections Act, 2023",
    "url": "https://malawilii.org/akn/mw/act/2023/10",
    "first_law": null,
-   "earlier_laws": [],
+   "earlier_laws": [
+    "act-2025-32"
+   ],
    "versions": [
     {
      "from": "2025-09-05",
@@ -2118,7 +2131,7 @@
        "text": "# 123. Repeal and savings\n(1) The Parliamentary and Presidential Elections Act and the Local Government Elections Act are hereby repealed.\n(2) Any subsidiary legislation made under the Acts repealed by subsection (1), and in force immediately before the commencement of this Act—\n(a) shall, unless in conflict with this Act, remain in force and be deemed to be subsidiary legislation made under this Act; and\n(b) may be replaced, amended or repealed by subsidiary legislation made under this Act.\n"
       }
      },
-     "note": "The MalawiLII version of 2025-09-05: the act as published."
+     "note": "The MalawiLII version of 2025-09-05, which takes in the Presidential, Parliamentary and Local Government Elections (Act 32 of 2025): the oldest version archived; MalawiLII's earlier expression(s) 2023-02-21 have no archived copy with their text."
     }
    ]
   }

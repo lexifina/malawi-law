@@ -59,7 +59,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 ## How it is checked
 
 - Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- **Against MalawiLII today:** the last version of each act is MalawiLII's current expression, as named by its own legislation listing on the retrieval day, and is the text of that expression page.
+- **Against MalawiLII's current text:** the last version of each act is the expression MalawiLII's own legislation listing names as current, in its newest archived copies (Internet Archive captures of 2026-04-19 to 2026-06-10; all match), and is the text of that expression page.
 - **Every version is its own dated expression**: each was parsed from an archived copy of exactly that expression's page, whose sha256 is recorded with the version.
 - The repository is rebuilt from the same data a second time and must give identical hashes.
 
@@ -81,13 +81,14 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## How it is built
 
+MalawiLII's terms prohibit scraping and bulk downloading, so no MalawiLII page is fetched: `tools/fetch.py` (with `tools/lii.py`) reads each expression page from its newest archived copy that carries the text, Common Crawl first (found through its index, read by byte range from the WARC file), else the Internet Archive (the raw `id_` form, found through the Wayback CDX index), with curl, cached by the sha256 of the URL; the capture timestamps and hashes are pinned in `tools/sources.json`. `tools/parse.py` reads only that cache through `tools/peachjam.py`, the shared adapter for every Peachjam LII: it splits the Akoma Ntoso HTML into one file per provision, takes dates and credits from the LII's History tab, amendment list and editorial notes, and writes `corpus.json`; the shared builder `tools/build.py` turns that into the commits. `REPRODUCE.md` lists every source, command, tool version and decision, and the result of the hash-for-hash rebuild.
 
 ## Sources
 
 | Source | What it gives | Used for |
 | --- | --- | --- |
-| [MalawiLII](https://malawilii.org) | Dated point-in-time versions (expressions) of each act, its History and amendment list, and per-provision editorial notes; its listing page names the current version | The text and dates of every version |
-| [Common Crawl](https://commoncrawl.org/) and the [Internet Archive](https://web.archive.org/) | Archived copies of those expression pages | Reading them |
+| [MalawiLII](https://malawilii.org) | Dated point-in-time versions (expressions) of each act, its History and amendment list, and per-provision editorial notes; its listing pages name the current version | The text and dates of every version |
+| [Common Crawl](https://commoncrawl.org/) and the [Internet Archive](https://web.archive.org/) | Archived copies of those expression pages and of MalawiLII's listing pages | Reading them |
 
 ## Licence
 

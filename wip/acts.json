@@ -47,6 +47,20 @@
    "short": "Constitution",
    "title": "Constitution of the Republic of Malawi",
    "label": "Act 20 of 1994"
+  },
+  {
+   "work": "1998/11",
+   "slug": "electoral-commission",
+   "short": "Electoral Commission Act",
+   "title": "Electoral Commission Act (Cap. 2:03)",
+   "label": "Act 11 of 1998"
+  },
+  {
+   "work": "2023/10",
+   "slug": "elections",
+   "short": "PPLGE Act 2023",
+   "title": "Presidential, Parliamentary and Local Government Elections Act, 2023",
+   "label": "Act 10 of 2023"
   }
  ],
  "decisions": [],

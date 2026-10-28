@@ -1,0 +1,59 @@
+{
+ "country": "MW",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Republic of Malawi (Constitution) Act",
+   "url": "https://malawilii.org/akn/mw/act/1994/20",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 222,
+     "source_url": "https://web.archive.org/web/20250929185747id_/https://malawilii.org/akn/mw/act/1994/20/eng@2017-12-31",
+     "sha256": "77713bc56479a874e087efb35dcf0b8e3fff77c7f2f300a40eb46e892356e657"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 222,
+     "source_url": "https://web.archive.org/web/20260807024812id_/https://malawilii.org/akn/mw/act/1994/20/eng@2020-11-03",
+     "sha256": "7c4c5d9b24f841f66e6716221595fa5e681a271dbb2b9d3a29b05af302744bd4"
+    }
+   ]
+  },
+  {
+   "slug": "electoral-commission",
+   "short": "Electoral Commission Act",
+   "title": "Electoral Commission Act",
+   "url": "https://malawilii.org/akn/mw/act/1998/11",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250929161601id_/https://malawilii.org/akn/mw/act/1998/11/eng@2014-12-31",
+     "sha256": "fe486446c9e41178b9f4d53b5092a83466461f30e7a32a9851262146b07eded5"
+    },
+    {
+     "from": "2018-11-02",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260215202704id_/https://malawilii.org/akn/mw/act/1998/11/eng@2018-11-02",
+     "sha256": "e19efdf9dfa3751aa099a4afcd0992cc5b06cbcb3d73cbf63aeddf5172c0ff6e"
+    }
+   ]
+  },
+  {
+   "slug": "elections",
+   "short": "PPLGE Act 2023",
+   "title": "Presidential, Parliamentary and Local Government Elections Act, 2023",
+   "url": "https://malawilii.org/akn/mw/act/2023/10",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 124,
+     "source_url": "https://web.archive.org/web/20260517204559id_/https://malawilii.org/akn/mw/act/2023/10/eng@2025-09-05",
+     "sha256": "4ca778471fd80ce847283da769432c2c1c91f45ca033e95ff323819a9d65e0da"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "retrieved": "2026-10-28",
+ "lii": {
+  "name": "MalawiLII",
+  "hosts": [
+   "malawilii.org"
+  ],
+  "cc": "mw",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "",
+  "listing": false
+ },
+ "country": {
+  "code": "MW",
+  "name": "Malawi",
+  "slug": "malawi",
+  "lang": "en",
+  "tz": "Africa/Blantyre",
+  "future_branch": "future",
+  "publisher": {
+   "name": "MalawiLII",
+   "email": "malawilii@malawilii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by MalawiLII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it (for a consolidation, the date the revised edition is as at). No date is computed from a default rule.",
+   "source": "https://malawilii.org/legislation/"
+  },
+  "licence_note": "Source: MalawiLII (https://malawilii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "MalawiLII (hosted by the Gender and Justice Unit, on the Laws.Africa Peachjam platform)",
+   "url": "https://malawilii.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting MalawiLII as the source (https://malawilii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act, /akn/mw/act/<year>/<num>/eng@<date>. MalawiLII's terms prohibit scraping and bulk downloading, so no MalawiLII page was fetched: each expression page is read from its latest Internet Archive capture (raw id_ form), and the capture timestamps and sha256s are pinned in sources.json. The request count is of Internet Archive requests."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of MalawiLII pages; the content licence is MalawiLII's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes."
+  },
+  {
+   "name": "Common Crawl",
+   "url": "https://commoncrawl.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Common Crawl terms of use (https://commoncrawl.org/terms-of-use); the content licence is MalawiLII's",
+   "notes": "Tried first by lii.py (index.commoncrawl.org, then data.commoncrawl.org byte ranges); its index was unreachable from this machine during the retrieval, so no version here comes from it."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1994/20",
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Malawi",
+   "label": "Act 20 of 1994",
+   "skip": [
+    "2014-12-31"
+   ]
+  },
+  {
+   "work": "1998/11",
+   "slug": "electoral-commission",
+   "short": "Electoral Commission Act",
+   "title": "Electoral Commission Act (Cap. 2:03)",
+   "label": "Act 11 of 1998"
+  },
+  {
+   "work": "2023/10",
+   "slug": "elections",
+   "short": "PPLGE Act 2023",
+   "title": "Presidential, Parliamentary and Local Government Elections Act, 2023",
+   "label": "Act 10 of 2023"
+  }
+ ],
+ "decisions": [
+  "Acts were chosen by what the archives hold. The Constitution (MalawiLII lists 2 expressions: 2017-12-31 and 2020-11-03) and the Electoral Commission Act (2 expressions: 2014-12-31 and 2018-11-02) have an archived copy, with its text, of every expression MalawiLII lists, so each version is read from its own dated expression.",
+  "The Presidential, Parliamentary and Local Government Elections Act 2023 is included from its 2025-09-05 expression only: the archived copies of its original expression of 2023-02-21 (the act as published in the Gazette) show only the source PDF, without the Akoma Ntoso text, and no OCR is used, so the act as enacted is not in this history; the first commit is the oldest version archived, naming the amending Act of 2025.",
+  "Not taken: the Land Act 2016 (MalawiLII's current expression, 2022-07-01, after the Land (Amendment) Act 2022, is not archived), the Courts Act (its 2026-02-20 expression, after the Courts (Schedule) (Replacement) Notice 2026, is not archived), and the Penal Code and Employment Act (only their 2014-12-31 expression is archived; the Internet Archive was throttling this machine and their later expressions were not surveyed).",
+  "The Constitution's 2014-12-31 expression (a consolidation as at 31 December 2014, from MalawiLII's earlier site, archived with its text on 2022-02-17) is left out: MalawiLII no longer lists it, and the shared adapter would date it as the act as enacted (ISSUES-malawi.md #3). The history starts at the 2017-12-31 consolidation (Fifth Revised Edition of the Laws of Malawi, L.R.O. 1/2018).",
+  "The amending Acts' own MalawiLII pages (Act 32 of 2018, Act 13 of 2020, Act 32 of 2025) have no archived copy with their text, so their assent and Gazette dates are not given; their titles and the dates their changes took effect come from the amended act's own History and amendment list.",
+  "Government gazettes were not used: MalawiLII's gazette pages are disallowed by its robots.txt and outside this build, and every date used here is stated by MalawiLII's expression pages. No OCR was used.",
+  "Archives: every copy was read from the Internet Archive (raw id_ form) through scripts/gitlaw_common/wayback.py, at the machine-wide adaptive rate; Common Crawl's index (index.commoncrawl.org) timed out from this machine during the retrieval (2026-10-28, 21:55 to 23:10 UTC), so no Common Crawl copy is used, though lii.py tries it first.",
+  "The current-expression check reads MalawiLII's own legislation listing in its newest archived copies (listing.py, listing_check.json): for all three acts the listing names the expression this history ends with.",
+  "Licence and terms: MalawiLII (hosted by the Gender and Justice Unit) licenses primary and secondary law content CC BY-NC 4.0, crediting MalawiLII as the source, and its terms say \"Scraping and bulk downloading from this website is strictly prohibited\"; its robots.txt sends Content-Signal ai-train=no, ai-input=no and Crawl-delay 5. No MalawiLII page was fetched: every page was read from archived copies, for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it\"). The repository stays private; CC BY-NC allows only non-commercial use. No legal text was given to a model."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and the Malawi-specific scripts, and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."
+ ]
+}

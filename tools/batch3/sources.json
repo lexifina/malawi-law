@@ -1,0 +1,337 @@
+{
+ "lii": "MalawiLII",
+ "acts": {
+  "1998/27": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-30",
+     "capture": "20260721074814",
+     "original": "https://malawilii.org/akn/mw/act/1998/27/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-30/segments/1783664243000.95/warc/CC-MAIN-20260721063229-20260721093229-00572.warc.gz:318421664:25415",
+     "filename": "crawl-data/CC-MAIN-2026-30/segments/1783664243000.95/warc/CC-MAIN-20260721063229-20260721093229-00572.warc.gz",
+     "offset": "318421664",
+     "length": "25415",
+     "sha256": "7d1a04581fb87b68e8d07b5b42b2f9cc065c18a6895eb7a43417a1c359023a91"
+    }
+   }
+  },
+  "1998/42": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-34",
+     "capture": "20260818083025",
+     "original": "https://malawilii.org/akn/mw/act/1998/42/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-34/segments/1786091677317.76/warc/CC-MAIN-20260818072149-20260818102149-00907.warc.gz:300346749:65981",
+     "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091677317.76/warc/CC-MAIN-20260818072149-20260818102149-00907.warc.gz",
+     "offset": "300346749",
+     "length": "65981",
+     "sha256": "ef1e9b544e3a79ac1a75ce37e5cfebc8907ba9769357869a022645bb2a73a39d"
+    }
+   }
+  },
+  "1992/11": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-12",
+     "capture": "20260315045900",
+     "original": "https://malawilii.org/akn/mw/act/1992/11/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-12/segments/1772687544433.50/warc/CC-MAIN-20260315041327-20260315071327-00571.warc.gz:270317124:63068",
+     "filename": "crawl-data/CC-MAIN-2026-12/segments/1772687544433.50/warc/CC-MAIN-20260315041327-20260315071327-00571.warc.gz",
+     "offset": "270317124",
+     "length": "63068",
+     "sha256": "a096f42143fd47d64195533c8151209f933cba63ca54418c9cd5a16e486b5155"
+    }
+   }
+  },
+  "2015/3": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-25",
+     "capture": "20260613160912",
+     "original": "https://malawilii.org/akn/mw/act/2015/3/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-25/segments/1780687572911.6/warc/CC-MAIN-20260613143506-20260613173506-00941.warc.gz:267330267:41868",
+     "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687572911.6/warc/CC-MAIN-20260613143506-20260613173506-00941.warc.gz",
+     "offset": "267330267",
+     "length": "41868",
+     "sha256": "406763be85636d7c5bea6873c6731fe89eddf321eac6a2aade0bf7fa3f9ccce2"
+    }
+   }
+  },
+  "2016/15": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-12",
+     "capture": "20260310151439",
+     "original": "https://malawilii.org/akn/mw/act/2016/15/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-12/segments/1772687277838.87/warc/CC-MAIN-20260310145722-20260310175722-00617.warc.gz:256720331:31426",
+     "filename": "crawl-data/CC-MAIN-2026-12/segments/1772687277838.87/warc/CC-MAIN-20260310145722-20260310175722-00617.warc.gz",
+     "offset": "256720331",
+     "length": "31426",
+     "sha256": "3abc43b987897e3cc6b2ddba145cad3d16091273e58cee0875cae8bf44c5b284"
+    }
+   }
+  },
+  "2016/26": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-04",
+     "capture": "20260118162651",
+     "original": "https://malawilii.org/akn/mw/act/2016/26/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-04/segments/1768220469415.65/warc/CC-MAIN-20260118155230-20260118185230-00137.warc.gz:313578769:107135",
+     "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469415.65/warc/CC-MAIN-20260118155230-20260118185230-00137.warc.gz",
+     "offset": "313578769",
+     "length": "107135",
+     "sha256": "9f02ed12dd25e6fff21db0e34409830c76cb4068d8be308d32dde71c2ba8c7ea"
+    }
+   }
+  },
+  "2016/34": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-30",
+     "capture": "20260713132457",
+     "original": "https://malawilii.org/akn/mw/act/2016/34/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-30/segments/1783663951640.20/warc/CC-MAIN-20260713114529-20260713144529-00540.warc.gz:311186139:111206",
+     "filename": "crawl-data/CC-MAIN-2026-30/segments/1783663951640.20/warc/CC-MAIN-20260713114529-20260713144529-00540.warc.gz",
+     "offset": "311186139",
+     "length": "111206",
+     "sha256": "9c7cb888d81a8a53caf61a054413ac8cd9301edb645e012a4e97cb4b15c2869d"
+    }
+   }
+  },
+  "2017/14": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-12",
+     "capture": "20260310162105",
+     "original": "https://malawilii.org/akn/mw/act/2017/14/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-12/segments/1772687277838.87/warc/CC-MAIN-20260310145722-20260310175722-00923.warc.gz:258580591:115465",
+     "filename": "crawl-data/CC-MAIN-2026-12/segments/1772687277838.87/warc/CC-MAIN-20260310145722-20260310175722-00923.warc.gz",
+     "offset": "258580591",
+     "length": "115465",
+     "sha256": "0ef92d295b59f50411ecf3b3ea8044ff21ebac0aba163c798fec5123bb8ca3cd"
+    }
+   }
+  },
+  "2017/27": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-34",
+     "capture": "20260817111638",
+     "original": "https://malawilii.org/akn/mw/act/2017/27/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-34/segments/1786091387263.73/warc/CC-MAIN-20260817095816-20260817125816-00089.warc.gz:325080925:51740",
+     "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091387263.73/warc/CC-MAIN-20260817095816-20260817125816-00089.warc.gz",
+     "offset": "325080925",
+     "length": "51740",
+     "sha256": "ed4c29514c3d63f8d4ea9354ee59c7a1e3c9abbea1fe726944b7c575a9c02409"
+    }
+   }
+  },
+  "2018/6": {
+   "expressions": {
+    "2018-02-02": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-08",
+     "capture": "20260215013331",
+     "original": "https://malawilii.org/akn/mw/act/2018/6/eng@2018-02-02",
+     "url": "cc:crawl-data/CC-MAIN-2026-08/segments/1770395506486.73/warc/CC-MAIN-20260215005311-20260215035311-00715.warc.gz:275359961:12587",
+     "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506486.73/warc/CC-MAIN-20260215005311-20260215035311-00715.warc.gz",
+     "offset": "275359961",
+     "length": "12587",
+     "sha256": "ab14fcfd51a7db27aa8e0b3a175aa16f10e9c4c221ac4f35bf34188b32a8c3b6"
+    }
+   }
+  },
+  "2018/9": {
+   "expressions": {
+    "2018-02-09": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-17",
+     "capture": "20260411172528",
+     "original": "https://malawilii.org/akn/mw/act/2018/9/eng@2018-02-09",
+     "url": "cc:crawl-data/CC-MAIN-2026-17/segments/1775805908641.66/warc/CC-MAIN-20260411164351-20260411194351-00191.warc.gz:311988170:36306",
+     "filename": "crawl-data/CC-MAIN-2026-17/segments/1775805908641.66/warc/CC-MAIN-20260411164351-20260411194351-00191.warc.gz",
+     "offset": "311988170",
+     "length": "36306",
+     "sha256": "39b32320c7bb3ac0138da5f7cb3ea84d901cb9ae78884c082a0783e4a4767271"
+    }
+   }
+  },
+  "2021/14": {
+   "expressions": {
+    "2021-08-13": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-30",
+     "capture": "20260715104817",
+     "original": "https://malawilii.org/akn/mw/act/2021/14/eng@2021-08-13",
+     "url": "cc:crawl-data/CC-MAIN-2026-30/segments/1783663951753.28/warc/CC-MAIN-20260715093621-20260715123621-00338.warc.gz:315479605:32729",
+     "filename": "crawl-data/CC-MAIN-2026-30/segments/1783663951753.28/warc/CC-MAIN-20260715093621-20260715123621-00338.warc.gz",
+     "offset": "315479605",
+     "length": "32729",
+     "sha256": "d6e2a5e7407655b13e6ffb2d58c2aab6a7ded9053a78c84f550e1e21239fceb7"
+    }
+   }
+  },
+  "2024/21": {
+   "expressions": {
+    "2024-05-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-30",
+     "capture": "20260715102530",
+     "original": "https://malawilii.org/akn/mw/act/2024/21/eng@2024-05-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-30/segments/1783663951753.28/warc/CC-MAIN-20260715093621-20260715123621-00387.warc.gz:288999905:59328",
+     "filename": "crawl-data/CC-MAIN-2026-30/segments/1783663951753.28/warc/CC-MAIN-20260715093621-20260715123621-00387.warc.gz",
+     "offset": "288999905",
+     "length": "59328",
+     "sha256": "5d82248b3793e2d7abe514332c0fb1fdd118c3355a6cb87ce99caa86001fe94f"
+    }
+   }
+  },
+  "2024/26": {
+   "expressions": {
+    "2024-11-08": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-08",
+     "capture": "20260212095218",
+     "original": "https://malawilii.org/akn/mw/act/2024/26/eng@2024-11-08",
+     "url": "cc:crawl-data/CC-MAIN-2026-08/segments/1770395506212.57/warc/CC-MAIN-20260212085136-20260212115136-00069.warc.gz:284013320:32725",
+     "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506212.57/warc/CC-MAIN-20260212085136-20260212115136-00069.warc.gz",
+     "offset": "284013320",
+     "length": "32725",
+     "sha256": "faf6539c653106579d2043ab03bc9db0a1834662bde2ad7796d3168c556fcdc1"
+    }
+   }
+  },
+  "2024/27": {
+   "expressions": {
+    "2024-11-08": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-08",
+     "capture": "20260213134816",
+     "original": "https://malawilii.org/akn/mw/act/2024/27/eng@2024-11-08",
+     "url": "cc:crawl-data/CC-MAIN-2026-08/segments/1770395506306.42/warc/CC-MAIN-20260213121809-20260213151809-00892.warc.gz:281173657:53690",
+     "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506306.42/warc/CC-MAIN-20260213121809-20260213151809-00892.warc.gz",
+     "offset": "281173657",
+     "length": "53690",
+     "sha256": "f3ca0ca7f1e27337e883291d8c4c9e91e7ab55b391e204aa149fdb4068d3a0dd"
+    }
+   }
+  },
+  "2024/28": {
+   "expressions": {
+    "2024-11-08": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-25",
+     "capture": "20260613160641",
+     "original": "https://malawilii.org/akn/mw/act/2024/28/eng@2024-11-08",
+     "url": "cc:crawl-data/CC-MAIN-2026-25/segments/1780687572911.6/warc/CC-MAIN-20260613143506-20260613173506-00715.warc.gz:285010735:48285",
+     "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687572911.6/warc/CC-MAIN-20260613143506-20260613173506-00715.warc.gz",
+     "offset": "285010735",
+     "length": "48285",
+     "sha256": "fade423ee7e6c134156a77eed3dcae816eb918d4cdab0d7b2ca0b4b36964919c"
+    }
+   }
+  },
+  "2004/23": {
+   "expressions": {
+    "2014-12-31": {
+     "via": "wayback",
+     "capture": "20250929171716",
+     "original": "https://malawilii.org/akn/mw/act/2004/23/eng@2014-12-31",
+     "url": "https://web.archive.org/web/20250929171716id_/https://malawilii.org/akn/mw/act/2004/23/eng@2014-12-31",
+     "sha256": "4eb0109c696f6a78b48b51460baf6d92bbbc880e07850c39ed5a95160ec32efc"
+    },
+    "2025-01-14": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-04",
+     "capture": "20260119181947",
+     "original": "https://malawilii.org/akn/mw/act/2004/23/eng@2025-01-14",
+     "url": "cc:crawl-data/CC-MAIN-2026-04/segments/1768220469480.73/warc/CC-MAIN-20260119163205-20260119193205-00941.warc.gz:297753973:31392",
+     "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469480.73/warc/CC-MAIN-20260119163205-20260119193205-00941.warc.gz",
+     "offset": "297753973",
+     "length": "31392",
+     "sha256": "3caff8640f6b5e966479bce5f12b313ad0ff2e4c5b18dd05ac637db374db85ad"
+    }
+   }
+  },
+  "1952/14": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-21",
+     "capture": "20260520163932",
+     "original": "https://malawilii.org/akn/mw/act/1952/14/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-21/segments/1778213377086.95/warc/CC-MAIN-20260520153329-20260520183329-00940.warc.gz:315609280:43007",
+     "filename": "crawl-data/CC-MAIN-2026-21/segments/1778213377086.95/warc/CC-MAIN-20260520153329-20260520183329-00940.warc.gz",
+     "offset": "315609280",
+     "length": "43007",
+     "sha256": "849b962c71c58527759384fce126a75c70539783406ca2891da8744cc53b50a0"
+    }
+   }
+  },
+  "1970/21": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-25",
+     "capture": "20260615074125",
+     "original": "https://malawilii.org/akn/mw/act/1970/21/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-25/segments/1780687573310.71/warc/CC-MAIN-20260615071330-20260615101330-00812.warc.gz:280996611:16147",
+     "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687573310.71/warc/CC-MAIN-20260615071330-20260615101330-00812.warc.gz",
+     "offset": "280996611",
+     "length": "16147",
+     "sha256": "887155782da8f2d8bf8fd5042a6698b09e11748ee6c0fbd55bf829d098a1559b"
+    }
+   }
+  },
+  "2010/18": {
+   "expressions": {
+    "2017-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-51",
+     "capture": "20251210085027",
+     "original": "https://malawilii.org/akn/mw/act/2010/18/eng@2017-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2025-51/segments/1764871307496.55/warc/CC-MAIN-20251210072242-20251210102242-00664.warc.gz:290859264:21754",
+     "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307496.55/warc/CC-MAIN-20251210072242-20251210102242-00664.warc.gz",
+     "offset": "290859264",
+     "length": "21754",
+     "sha256": "445c62dd904aaa8177503d50b058b11cade5cdeb7665bdae671c16a72db566c1"
+    }
+   }
+  }
+ },
+ "laws": {},
+ "listings": {},
+ "missing": {
+  "1998/27": [],
+  "1998/42": [],
+  "1992/11": [],
+  "2015/3": [],
+  "2016/15": [],
+  "2016/26": [],
+  "2016/34": [],
+  "2017/14": [],
+  "2017/27": [],
+  "2018/6": [],
+  "2018/9": [],
+  "2021/14": [],
+  "2024/21": [],
+  "2024/26": [],
+  "2024/27": [],
+  "2024/28": [],
+  "2004/23": [],
+  "1952/14": [],
+  "1970/21": [],
+  "2010/18": []
+ },
+ "retrieved": "2026-10-29"
+}

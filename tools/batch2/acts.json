@@ -1,0 +1,161 @@
+{
+ "part": "60-batch2",
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "MalawiLII",
+  "hosts": [
+   "malawilii.org"
+  ],
+  "cc": "mw",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "",
+  "listing": false
+ },
+ "cc_crawls": 16,
+ "country": {
+  "code": "MW",
+  "name": "Malawi",
+  "slug": "malawi",
+  "lang": "en",
+  "tz": "Africa/Blantyre",
+  "future_branch": "future",
+  "publisher": {
+   "name": "MalawiLII",
+   "email": "malawilii@malawilii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by MalawiLII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it (for a consolidation, the date the revised edition is as at). No date is computed from a default rule.",
+   "source": "https://malawilii.org/legislation/"
+  },
+  "licence_note": "Source: MalawiLII (https://malawilii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "MalawiLII (hosted by the Gender and Justice Unit, on the Laws.Africa Peachjam platform)",
+   "url": "https://malawilii.org",
+   "retrieved": "2026-10-29",
+   "requests": null,
+   "licence": "CC BY-NC 4.0, crediting MalawiLII as the source (https://malawilii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act in this part, /akn/mw/act/<year>/<num>/eng@<date>. Each version's source_url is the expression it was parsed from, and its sha256 is that of the page."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1967/36",
+   "slug": "criminal-procedure-evidence",
+   "short": "Criminal Procedure and Evidence Code",
+   "title": "Criminal Procedure and Evidence Code",
+   "label": "Act 36 of 1967"
+  },
+  {
+   "work": "2000/6",
+   "slug": "employment",
+   "short": "Employment Act",
+   "title": "Employment Act",
+   "label": "Act 6 of 2000"
+  },
+  {
+   "work": "1996/16",
+   "slug": "labour-relations",
+   "short": "Labour Relations Act",
+   "title": "Labour Relations Act",
+   "label": "Act 16 of 1996"
+  },
+  {
+   "work": "1995/18",
+   "slug": "corrupt-practices",
+   "short": "Corrupt Practices Act",
+   "title": "Corrupt Practices Act",
+   "label": "Act 18 of 1995"
+  },
+  {
+   "work": "2010/12",
+   "slug": "police",
+   "short": "Police Act",
+   "title": "Police Act",
+   "label": "Act 12 of 2010"
+  },
+  {
+   "work": "2010/22",
+   "slug": "child-care-protection-justice",
+   "short": "Child Care, Protection and Justice Act",
+   "title": "Child Care, Protection and Justice Act",
+   "label": "Act 22 of 2010"
+  },
+  {
+   "work": "2011/14",
+   "slug": "deceased-estates",
+   "short": "Deceased Estates (Wills, Inheritance and Protection) Act",
+   "title": "Deceased Estates (Wills, Inheritance and Protection) Act",
+   "label": "Act 14 of 2011"
+  },
+  {
+   "work": "2015/4",
+   "slug": "marriage-divorce-family-relations",
+   "short": "Marriage, Divorce and Family Relations Act",
+   "title": "Marriage, Divorce and Family Relations Act",
+   "label": "Act 4 of 2015"
+  },
+  {
+   "work": "2016/33",
+   "slug": "electronic-transactions-cyber-security",
+   "short": "Electronic Transactions and Cyber Security Act",
+   "title": "Electronic Transactions and Cyber Security Act",
+   "label": "Act 33 of 2016"
+  },
+  {
+   "work": "2016/9",
+   "slug": "insolvency",
+   "short": "Insolvency Act",
+   "title": "Insolvency Act",
+   "label": "Act 9 of 2016"
+  },
+  {
+   "work": "2017/13",
+   "slug": "access-to-information",
+   "short": "Access to Information Act",
+   "title": "Access to Information Act, 2016",
+   "label": "Act 13 of 2017"
+  },
+  {
+   "work": "2021/13",
+   "slug": "tax-administration",
+   "short": "Tax Administration Act",
+   "title": "Tax Administration Act, 2021",
+   "label": "Act 13 of 2021"
+  },
+  {
+   "work": "2004/11",
+   "slug": "defence-force",
+   "short": "Defence Force Act",
+   "title": "Defence Force Act",
+   "label": "Act 11 of 2004"
+  },
+  {
+   "work": "1997/11",
+   "slug": "forestry",
+   "short": "Forestry Act",
+   "title": "Forestry Act",
+   "label": "Act 11 of 1997"
+  },
+  {
+   "work": "2004/20",
+   "slug": "energy-regulation",
+   "short": "Energy Regulation Act",
+   "title": "Energy Regulation Act",
+   "label": "Act 20 of 2004"
+  }
+ ],
+ "decisions": [
+  "Part 60-batch2: acts chosen for their weight in everyday practice (criminal procedure and evidence, employment and labour relations, corruption, police, children, succession, marriage and family, electronic transactions, insolvency, access to information, tax administration, defence, forestry, energy regulation) among the MalawiLII acts whose current expression, and every earlier expression MalawiLII lists, could be read with its text. Acts whose newest page lists an amendment MalawiLII has not yet applied were left out (for example the Penal Code, the Courts Act, the Taxation Act and the Value Added Tax Act), because their last version would not be today's law. The Parliamentary and Presidential Elections Act, the Local Government Elections Act and the Companies Act, 1984 were left out of this batch until their status after later legislation is checked.",
+  "Most acts here start at MalawiLII's consolidation as at 31 December 2014 or 31 December 2017 (revised editions of the Laws of Malawi), the oldest version MalawiLII publishes; where that is also its current expression, the act has one version and no history of change in this record."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and the Malawi-specific scripts, and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."
+ ],
+ "decisions_after": [
+  "Part 60-batch2: the last version of each act is the text MalawiLII publishes as current, whose page lists no later amendment and none waiting to be applied. An amendment MalawiLII has not recorded at all would not be in this record; the acts whose only version is the 2014 or 2017 consolidation are the most exposed to that."
+ ]
+}

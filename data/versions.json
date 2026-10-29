@@ -1,0 +1,545 @@
+{
+ "country": "MW",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Republic of Malawi (Constitution) Act",
+   "url": "https://malawilii.org/akn/mw/act/1994/20",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 222,
+     "source_url": "https://web.archive.org/web/20250929185747id_/https://malawilii.org/akn/mw/act/1994/20/eng@2017-12-31",
+     "sha256": "77713bc56479a874e087efb35dcf0b8e3fff77c7f2f300a40eb46e892356e657"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 222,
+     "source_url": "https://web.archive.org/web/20260807024812id_/https://malawilii.org/akn/mw/act/1994/20/eng@2020-11-03",
+     "sha256": "7c4c5d9b24f841f66e6716221595fa5e681a271dbb2b9d3a29b05af302744bd4"
+    }
+   ]
+  },
+  {
+   "slug": "electoral-commission",
+   "short": "Electoral Commission Act",
+   "title": "Electoral Commission Act",
+   "url": "https://malawilii.org/akn/mw/act/1998/11",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250929161601id_/https://malawilii.org/akn/mw/act/1998/11/eng@2014-12-31",
+     "sha256": "fe486446c9e41178b9f4d53b5092a83466461f30e7a32a9851262146b07eded5"
+    },
+    {
+     "from": "2018-11-02",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260215202704id_/https://malawilii.org/akn/mw/act/1998/11/eng@2018-11-02",
+     "sha256": "e19efdf9dfa3751aa099a4afcd0992cc5b06cbcb3d73cbf63aeddf5172c0ff6e"
+    }
+   ]
+  },
+  {
+   "slug": "elections",
+   "short": "PPLGE Act 2023",
+   "title": "Presidential, Parliamentary and Local Government Elections Act, 2023",
+   "url": "https://malawilii.org/akn/mw/act/2023/10",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 124,
+     "source_url": "https://web.archive.org/web/20260517204559id_/https://malawilii.org/akn/mw/act/2023/10/eng@2025-09-05",
+     "sha256": "4ca778471fd80ce847283da769432c2c1c91f45ca033e95ff323819a9d65e0da"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure-evidence",
+   "short": "Criminal Procedure and Evidence Code",
+   "title": "Criminal Procedure and Evidence Code",
+   "url": "https://malawilii.org/akn/mw/act/1967/36",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 409,
+     "source_url": "https://malawilii.org/akn/mw/act/1967/36/eng@2014-12-31",
+     "sha256": "67b5a397ce49c89a908481c5ad67cd54a089ceee49b89464c35c0c0599d04ccb"
+    }
+   ]
+  },
+  {
+   "slug": "employment",
+   "short": "Employment Act",
+   "title": "Employment Act",
+   "url": "https://malawilii.org/akn/mw/act/2000/6",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 73,
+     "source_url": "https://malawilii.org/akn/mw/act/2000/6/eng@2014-12-31",
+     "sha256": "2df35fc5fb7161907ea098e0064ce88b3d38fd784a6618fc55ec244d04c06a38"
+    }
+   ]
+  },
+  {
+   "slug": "labour-relations",
+   "short": "Labour Relations Act",
+   "title": "Labour Relations Act",
+   "url": "https://malawilii.org/akn/mw/act/1996/16",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 80,
+     "source_url": "https://malawilii.org/akn/mw/act/1996/16/eng@2014-12-31",
+     "sha256": "9ce40313cc31d1c06eabe188bf86712df6c94f70ac6543d30f5e7286a33e03d5"
+    }
+   ]
+  },
+  {
+   "slug": "corrupt-practices",
+   "short": "Corrupt Practices Act",
+   "title": "Corrupt Practices Act",
+   "url": "https://malawilii.org/akn/mw/act/1995/18",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 70,
+     "source_url": "https://malawilii.org/akn/mw/act/1995/18/eng@2014-12-31",
+     "sha256": "791f7e70f30f4efbae9701d8d0141bb427bce389b655147eb959ee8367452175"
+    }
+   ]
+  },
+  {
+   "slug": "police",
+   "short": "Police Act",
+   "title": "Police Act",
+   "url": "https://malawilii.org/akn/mw/act/2010/12",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 179,
+     "source_url": "https://malawilii.org/akn/mw/act/2010/12/eng@2014-12-31",
+     "sha256": "9a531ad54435ea1a5b8834413b47f837307f54530f6f9fa3ef5055ed53737041"
+    }
+   ]
+  },
+  {
+   "slug": "child-care-protection-justice",
+   "short": "Child Care, Protection and Justice Act",
+   "title": "Child Care, Protection and Justice Act",
+   "url": "https://malawilii.org/akn/mw/act/2010/22",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 205,
+     "source_url": "https://malawilii.org/akn/mw/act/2010/22/eng@2014-12-31",
+     "sha256": "d3791dc97fc5fea93ff3b32438f5fbaf22b654fc4955539c50a0190fea2c38e1"
+    }
+   ]
+  },
+  {
+   "slug": "deceased-estates",
+   "short": "Deceased Estates (Wills, Inheritance and Protection) Act",
+   "title": "Deceased Estates (Wills, Inheritance and Protection) Act",
+   "url": "https://malawilii.org/akn/mw/act/2011/14",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 92,
+     "source_url": "https://malawilii.org/akn/mw/act/2011/14/eng@2014-12-31",
+     "sha256": "4aa68d0c42adb4ef2f4f5b334875fbb24515ebfc21886e6990ba05b3e8d64dea"
+    }
+   ]
+  },
+  {
+   "slug": "marriage-divorce-family-relations",
+   "short": "Marriage, Divorce and Family Relations Act",
+   "title": "Marriage, Divorce and Family Relations Act",
+   "url": "https://malawilii.org/akn/mw/act/2015/4",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 118,
+     "source_url": "https://malawilii.org/akn/mw/act/2015/4/eng@2017-12-31",
+     "sha256": "220243b5980733891012b6a948dbd882299806c6f391b5e5cf835161ad5152a9"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-transactions-cyber-security",
+   "short": "Electronic Transactions and Cyber Security Act",
+   "title": "Electronic Transactions and Cyber Security Act",
+   "url": "https://malawilii.org/akn/mw/act/2016/33",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 105,
+     "source_url": "https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31",
+     "sha256": "e7cc6b9ac0f05a4db5062a321d5a8cea677cd83c08e44bf988996d172ef1cffb"
+    }
+   ]
+  },
+  {
+   "slug": "insolvency",
+   "short": "Insolvency Act",
+   "title": "Insolvency Act",
+   "url": "https://malawilii.org/akn/mw/act/2016/9",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 356,
+     "source_url": "https://malawilii.org/akn/mw/act/2016/9/eng@2017-12-31",
+     "sha256": "90233909829e58667a2c18c72af4ee3f584ad116f27666c6afaf8c150cfb2edd"
+    }
+   ]
+  },
+  {
+   "slug": "access-to-information",
+   "short": "Access to Information Act",
+   "title": "Access to Information Act, 2016",
+   "url": "https://malawilii.org/akn/mw/act/2017/13",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 58,
+     "source_url": "https://malawilii.org/akn/mw/act/2017/13/eng@2017-02-16",
+     "sha256": "8807a35c8db695445a04862dde6698d7d49809b83fd59c9113be557d23d4adc8"
+    }
+   ]
+  },
+  {
+   "slug": "tax-administration",
+   "short": "Tax Administration Act",
+   "title": "Tax Administration Act, 2021",
+   "url": "https://malawilii.org/akn/mw/act/2021/13",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 132,
+     "source_url": "https://malawilii.org/akn/mw/act/2021/13/eng@2021-08-13",
+     "sha256": "abaca3f89405a6d37f234013b0ed629490780438d716e5e32703124eb0831d28"
+    }
+   ]
+  },
+  {
+   "slug": "defence-force",
+   "short": "Defence Force Act",
+   "title": "Defence Force Act",
+   "url": "https://malawilii.org/akn/mw/act/2004/11",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 249,
+     "source_url": "https://malawilii.org/akn/mw/act/2004/11/eng@2014-12-31",
+     "sha256": "7b52fc2dfe4624e1dd030926123dc1b816c03914101336465ed4e3a0e02514f4"
+    },
+    {
+     "from": "2018-02-02",
+     "units": 257,
+     "source_url": "https://malawilii.org/akn/mw/act/2004/11/eng@2018-02-02",
+     "sha256": "1a5515f9fe22c066fd127f5a6b9ae55c7d39f748fecd70b1f6ca031418541a24"
+    }
+   ]
+  },
+  {
+   "slug": "forestry",
+   "short": "Forestry Act",
+   "title": "Forestry Act",
+   "url": "https://malawilii.org/akn/mw/act/1997/11",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 88,
+     "source_url": "https://malawilii.org/akn/mw/act/1997/11/eng@2017-12-31",
+     "sha256": "65cef2f1c50b2e28bfd88d44cc43dc5079f37377536f8b819a3182f4c26444c5"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 88,
+     "source_url": "https://malawilii.org/akn/mw/act/1997/11/eng@2020-06-19",
+     "sha256": "5add002b585b51a3daeb323e8636ef1f3a97d5169c925bfb770b7d19e180ec3b"
+    }
+   ]
+  },
+  {
+   "slug": "energy-regulation",
+   "short": "Energy Regulation Act",
+   "title": "Energy Regulation Act",
+   "url": "https://malawilii.org/akn/mw/act/2004/20",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 46,
+     "source_url": "https://malawilii.org/akn/mw/act/2004/20/eng@2014-12-31",
+     "sha256": "2dc97f489e863cc2df593fde99e9464cf3ff71230a0d3a4ff29089d26514ef2c"
+    },
+    {
+     "from": "2025-01-14",
+     "units": 48,
+     "source_url": "https://malawilii.org/akn/mw/act/2004/20/eng@2025-01-14",
+     "sha256": "c92e48a737b3024eaa42986d86f6468b93d492a8e0fcda597ca5f301199c356e"
+    }
+   ]
+  },
+  {
+   "slug": "human-rights-commission",
+   "short": "Human Rights Commission Act",
+   "title": "Human Rights Commission Act",
+   "url": "https://malawilii.org/akn/mw/act/1998/27",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 40,
+     "source_url": "https://malawilii.org/akn/mw/act/1998/27/eng@2017-12-31",
+     "sha256": "7d1a04581fb87b68e8d07b5b42b2f9cc065c18a6895eb7a43417a1c359023a91"
+    }
+   ]
+  },
+  {
+   "slug": "local-government",
+   "short": "Local Government Act",
+   "title": "Local Government Act",
+   "url": "https://malawilii.org/akn/mw/act/1998/42",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 142,
+     "source_url": "https://malawilii.org/akn/mw/act/1998/42/eng@2017-12-31",
+     "sha256": "ef1e9b544e3a79ac1a75ce37e5cfebc8907ba9769357869a022645bb2a73a39d"
+    }
+   ]
+  },
+  {
+   "slug": "national-parks-and-wildlife",
+   "short": "National Parks and Wildlife Act",
+   "title": "National Parks and Wildlife Act",
+   "url": "https://malawilii.org/akn/mw/act/1992/11",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 142,
+     "source_url": "https://malawilii.org/akn/mw/act/1992/11/eng@2017-12-31",
+     "sha256": "a096f42143fd47d64195533c8151209f933cba63ca54418c9cd5a16e486b5155"
+    }
+   ]
+  },
+  {
+   "slug": "trafficking-in-persons",
+   "short": "Trafficking in Persons Act",
+   "title": "Trafficking in Persons Act",
+   "url": "https://malawilii.org/akn/mw/act/2015/3",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 92,
+     "source_url": "https://malawilii.org/akn/mw/act/2015/3/eng@2017-12-31",
+     "sha256": "406763be85636d7c5bea6873c6731fe89eddf321eac6a2aade0bf7fa3f9ccce2"
+    }
+   ]
+  },
+  {
+   "slug": "payment-systems",
+   "short": "Payment Systems Act",
+   "title": "Payment Systems Act",
+   "url": "https://malawilii.org/akn/mw/act/2016/15",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 45,
+     "source_url": "https://malawilii.org/akn/mw/act/2016/15/eng@2017-12-31",
+     "sha256": "3abc43b987897e3cc6b2ddba145cad3d16091273e58cee0875cae8bf44c5b284"
+    }
+   ]
+  },
+  {
+   "slug": "copyright",
+   "short": "Copyright Act",
+   "title": "Copyright Act",
+   "url": "https://malawilii.org/akn/mw/act/2016/26",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 122,
+     "source_url": "https://malawilii.org/akn/mw/act/2016/26/eng@2017-12-31",
+     "sha256": "9f02ed12dd25e6fff21db0e34409830c76cb4068d8be308d32dde71c2ba8c7ea"
+    }
+   ]
+  },
+  {
+   "slug": "communications",
+   "short": "Communications Act",
+   "title": "Communications Act",
+   "url": "https://malawilii.org/akn/mw/act/2016/34",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 211,
+     "source_url": "https://malawilii.org/akn/mw/act/2016/34/eng@2017-12-31",
+     "sha256": "9c7cb888d81a8a53caf61a054413ac8cd9301edb645e012a4e97cb4b15c2869d"
+    }
+   ]
+  },
+  {
+   "slug": "financial-crimes",
+   "short": "Financial Crimes Act",
+   "title": "Financial Crimes Act",
+   "url": "https://malawilii.org/akn/mw/act/2017/14",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 147,
+     "source_url": "https://malawilii.org/akn/mw/act/2017/14/eng@2017-12-31",
+     "sha256": "0ef92d295b59f50411ecf3b3ea8044ff21ebac0aba163c798fec5123bb8ca3cd"
+    }
+   ]
+  },
+  {
+   "slug": "public-procurement-and-disposal-of-public-assets",
+   "short": "Public Procurement and Disposal of Public Assets Act",
+   "title": "Public Procurement and Disposal of Public Assets Act",
+   "url": "https://malawilii.org/akn/mw/act/2017/27",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 67,
+     "source_url": "https://malawilii.org/akn/mw/act/2017/27/eng@2017-12-31",
+     "sha256": "ed4c29514c3d63f8d4ea9354ee59c7a1e3c9abbea1fe726944b7c575a9c02409"
+    }
+   ]
+  },
+  {
+   "slug": "hiv-and-aids-prevention-and-management",
+   "short": "HIV and AIDS (Prevention and Management) Act",
+   "title": "HIV and AIDS (Prevention and Management) Act, 2017",
+   "url": "https://malawilii.org/akn/mw/act/2018/9",
+   "versions": [
+    {
+     "from": "2018-06-15",
+     "units": 66,
+     "source_url": "https://malawilii.org/akn/mw/act/2018/9/eng@2018-02-09",
+     "sha256": "39b32320c7bb3ac0138da5f7cb3ea84d901cb9ae78884c082a0783e4a4767271"
+    }
+   ]
+  },
+  {
+   "slug": "revenue-appeals-tribunal",
+   "short": "Revenue Appeals Tribunal Act",
+   "title": "Revenue Appeals Tribunal Act, 2021",
+   "url": "https://malawilii.org/akn/mw/act/2021/14",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 44,
+     "source_url": "https://malawilii.org/akn/mw/act/2021/14/eng@2021-08-13",
+     "sha256": "d6e2a5e7407655b13e6ffb2d58c2aab6a7ded9053a78c84f550e1e21239fceb7"
+    }
+   ]
+  },
+  {
+   "slug": "property-valuation",
+   "short": "Property Valuation Act",
+   "title": "Property Valuation Act, 2024",
+   "url": "https://malawilii.org/akn/mw/act/2024/26",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 45,
+     "source_url": "https://malawilii.org/akn/mw/act/2024/26/eng@2024-11-08",
+     "sha256": "faf6539c653106579d2043ab03bc9db0a1834662bde2ad7796d3168c556fcdc1"
+    }
+   ]
+  },
+  {
+   "slug": "sectional-titles",
+   "short": "Sectional Titles Act",
+   "title": "Sectional Titles Act, 2024",
+   "url": "https://malawilii.org/akn/mw/act/2024/27",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 69,
+     "source_url": "https://malawilii.org/akn/mw/act/2024/27/eng@2024-11-08",
+     "sha256": "f3ca0ca7f1e27337e883291d8c4c9e91e7ab55b391e204aa149fdb4068d3a0dd"
+    }
+   ]
+  },
+  {
+   "slug": "real-estate-management",
+   "short": "Real Estate Management Act",
+   "title": "Real Estate Management Act, 2024",
+   "url": "https://malawilii.org/akn/mw/act/2024/28",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 61,
+     "source_url": "https://malawilii.org/akn/mw/act/2024/28/eng@2024-11-08",
+     "sha256": "fade423ee7e6c134156a77eed3dcae816eb918d4cdab0d7b2ca0b4b36964919c"
+    }
+   ]
+  },
+  {
+   "slug": "liquid-fuels-and-gas-production-and-supply",
+   "short": "Liquid Fuels and Gas (Production and Supply) Act",
+   "title": "Liquid Fuels and Gas (Production and Supply) Act",
+   "url": "https://malawilii.org/akn/mw/act/2004/23",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 51,
+     "source_url": "https://malawilii.org/akn/mw/act/2004/23/eng@2014-12-31",
+     "sha256": "4eb0109c696f6a78b48b51460baf6d92bbbc880e07850c39ed5a95160ec32efc"
+    },
+    {
+     "from": "2025-01-14",
+     "units": 54,
+     "source_url": "https://malawilii.org/akn/mw/act/2004/23/eng@2025-01-14",
+     "sha256": "3caff8640f6b5e966479bce5f12b313ad0ff2e4c5b18dd05ac637db374db85ad"
+    }
+   ]
+  },
+  {
+   "slug": "land-survey",
+   "short": "Land Survey Act",
+   "title": "Land Survey Act",
+   "url": "https://malawilii.org/akn/mw/act/1952/14",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 77,
+     "source_url": "https://malawilii.org/akn/mw/act/1952/14/eng@2017-12-31",
+     "sha256": "849b962c71c58527759384fce126a75c70539783406ca2891da8744cc53b50a0"
+    }
+   ]
+  },
+  {
+   "slug": "lands-acquisition-and-compensation",
+   "short": "Lands Acquisition and Compensation Act",
+   "title": "Lands Acquisition and Compensation Act",
+   "url": "https://malawilii.org/akn/mw/act/1970/21",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 20,
+     "source_url": "https://malawilii.org/akn/mw/act/1970/21/eng@2017-12-31",
+     "sha256": "887155782da8f2d8bf8fd5042a6698b09e11748ee6c0fbd55bf829d098a1559b"
+    }
+   ]
+  },
+  {
+   "slug": "credit-reference-bureau",
+   "short": "Credit Reference Bureau Act",
+   "title": "Credit Reference Bureau Act",
+   "url": "https://malawilii.org/akn/mw/act/2010/18",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 39,
+     "source_url": "https://malawilii.org/akn/mw/act/2010/18/eng@2017-12-31",
+     "sha256": "445c62dd904aaa8177503d50b058b11cade5cdeb7665bdae671c16a72db566c1"
+    }
+   ]
+  }
+ ]
+}

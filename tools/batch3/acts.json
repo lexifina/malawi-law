@@ -1,0 +1,179 @@
+{
+ "part": "61-batch3",
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "MalawiLII",
+  "hosts": [
+   "malawilii.org"
+  ],
+  "cc": "mw",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "",
+  "listing": false
+ },
+ "cc_crawls": 16,
+ "country": {
+  "code": "MW",
+  "name": "Malawi",
+  "slug": "malawi",
+  "lang": "en",
+  "tz": "Africa/Blantyre",
+  "future_branch": "future",
+  "publisher": {
+   "name": "MalawiLII",
+   "email": "malawilii@malawilii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by MalawiLII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it (for a consolidation, the date the revised edition is as at). No date is computed from a default rule.",
+   "source": "https://malawilii.org/legislation/"
+  },
+  "licence_note": "Source: MalawiLII (https://malawilii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "MalawiLII (hosted by the Gender and Justice Unit, on the Laws.Africa Peachjam platform)",
+   "url": "https://malawilii.org",
+   "retrieved": "2026-10-29",
+   "requests": null,
+   "licence": "CC BY-NC 4.0, crediting MalawiLII as the source (https://malawilii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act in this part, /akn/mw/act/<year>/<num>/eng@<date>. Each version's source_url is the expression it was parsed from, and its sha256 is that of the page."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1998/27",
+   "slug": "human-rights-commission",
+   "short": "Human Rights Commission Act",
+   "title": "Human Rights Commission Act",
+   "label": "Act 27 of 1998"
+  },
+  {
+   "work": "1998/42",
+   "slug": "local-government",
+   "short": "Local Government Act",
+   "title": "Local Government Act",
+   "label": "Act 42 of 1998"
+  },
+  {
+   "work": "1992/11",
+   "slug": "national-parks-and-wildlife",
+   "short": "National Parks and Wildlife Act",
+   "title": "National Parks and Wildlife Act",
+   "label": "Act 11 of 1992"
+  },
+  {
+   "work": "2015/3",
+   "slug": "trafficking-in-persons",
+   "short": "Trafficking in Persons Act",
+   "title": "Trafficking in Persons Act",
+   "label": "Act 3 of 2015"
+  },
+  {
+   "work": "2016/15",
+   "slug": "payment-systems",
+   "short": "Payment Systems Act",
+   "title": "Payment Systems Act",
+   "label": "Act 15 of 2016"
+  },
+  {
+   "work": "2016/26",
+   "slug": "copyright",
+   "short": "Copyright Act",
+   "title": "Copyright Act",
+   "label": "Act 26 of 2016"
+  },
+  {
+   "work": "2016/34",
+   "slug": "communications",
+   "short": "Communications Act",
+   "title": "Communications Act",
+   "label": "Act 34 of 2016"
+  },
+  {
+   "work": "2017/14",
+   "slug": "financial-crimes",
+   "short": "Financial Crimes Act",
+   "title": "Financial Crimes Act",
+   "label": "Act 14 of 2017"
+  },
+  {
+   "work": "2017/27",
+   "slug": "public-procurement-and-disposal-of-public-assets",
+   "short": "Public Procurement and Disposal of Public Assets Act",
+   "title": "Public Procurement and Disposal of Public Assets Act",
+   "label": "Act 27 of 2017"
+  },
+  {
+   "work": "2018/9",
+   "slug": "hiv-and-aids-prevention-and-management",
+   "short": "HIV and AIDS (Prevention and Management) Act",
+   "title": "HIV and AIDS (Prevention and Management) Act, 2017",
+   "label": "Act 9 of 2018"
+  },
+  {
+   "work": "2021/14",
+   "slug": "revenue-appeals-tribunal",
+   "short": "Revenue Appeals Tribunal Act",
+   "title": "Revenue Appeals Tribunal Act, 2021",
+   "label": "Act 14 of 2021"
+  },
+  {
+   "work": "2024/26",
+   "slug": "property-valuation",
+   "short": "Property Valuation Act",
+   "title": "Property Valuation Act, 2024",
+   "label": "Act 26 of 2024"
+  },
+  {
+   "work": "2024/27",
+   "slug": "sectional-titles",
+   "short": "Sectional Titles Act",
+   "title": "Sectional Titles Act, 2024",
+   "label": "Act 27 of 2024"
+  },
+  {
+   "work": "2024/28",
+   "slug": "real-estate-management",
+   "short": "Real Estate Management Act",
+   "title": "Real Estate Management Act, 2024",
+   "label": "Act 28 of 2024"
+  },
+  {
+   "work": "2004/23",
+   "slug": "liquid-fuels-and-gas-production-and-supply",
+   "short": "Liquid Fuels and Gas (Production and Supply) Act",
+   "title": "Liquid Fuels and Gas (Production and Supply) Act",
+   "label": "Act 23 of 2004"
+  },
+  {
+   "work": "1952/14",
+   "slug": "land-survey",
+   "short": "Land Survey Act",
+   "title": "Land Survey Act",
+   "label": "Act 14 of 1952"
+  },
+  {
+   "work": "1970/21",
+   "slug": "lands-acquisition-and-compensation",
+   "short": "Lands Acquisition and Compensation Act",
+   "title": "Lands Acquisition and Compensation Act",
+   "label": "Act 21 of 1970"
+  },
+  {
+   "work": "2010/18",
+   "slug": "credit-reference-bureau",
+   "short": "Credit Reference Bureau Act",
+   "title": "Credit Reference Bureau Act",
+   "label": "Act 18 of 2010"
+  }
+ ],
+ "decisions": [
+  "Part 61-batch3: further MalawiLII acts whose current expression, and every earlier expression MalawiLII lists, could be read with its text, whose newest page lists no amendment MalawiLII has not yet applied, and whose current expression is the 2017 consolidation (Fifth Revised Edition) or later.",
+  "Left out of part 61-batch3: the Older Persons Act, 2024 (MalawiLII marks it \"Not commenced\") and the Referendum Act, 2018 (MalawiLII gives its commencement date as unknown)."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and the Malawi-specific scripts, and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."
+ ]
+}

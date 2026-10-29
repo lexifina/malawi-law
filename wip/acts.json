@@ -61,7 +61,10 @@
    "slug": "constitution",
    "short": "Constitution",
    "title": "Constitution of the Republic of Malawi",
-   "label": "Act 20 of 1994"
+   "label": "Act 20 of 1994",
+   "skip": [
+    "2014-12-31"
+   ]
   },
   {
    "work": "1998/11",
@@ -82,7 +85,7 @@
   "Acts were chosen by what the archives hold. The Constitution (MalawiLII lists 2 expressions: 2017-12-31 and 2020-11-03) and the Electoral Commission Act (2 expressions: 2014-12-31 and 2018-11-02) have an archived copy, with its text, of every expression MalawiLII lists, so each version is read from its own dated expression.",
   "The Presidential, Parliamentary and Local Government Elections Act 2023 is included from its 2025-09-05 expression only: the archived copies of its original expression of 2023-02-21 (the act as published in the Gazette) show only the source PDF, without the Akoma Ntoso text, and no OCR is used, so the act as enacted is not in this history; the first commit is the oldest version archived, naming the amending Act of 2025.",
   "Not taken: the Land Act 2016 (MalawiLII's current expression, 2022-07-01, after the Land (Amendment) Act 2022, is not archived), the Courts Act (its 2026-02-20 expression, after the Courts (Schedule) (Replacement) Notice 2026, is not archived), and the Penal Code and Employment Act (only their 2014-12-31 expression is archived; the Internet Archive was throttling this machine and their later expressions were not surveyed).",
-  "The Constitution also has a 2014-12-31 expression (a consolidation as at 31 December 2014) that MalawiLII published on its earlier site and no longer lists; the Internet Archive holds it with its text (capture of 2022-02-17), so it is the first version here. The 2014-to-2017 changes come with the 2017-12-31 consolidation (Fifth Revised Edition of the Laws of Malawi, L.R.O. 1/2018), which names no amending Act, so they are committed by the publisher as unexplained; some are only editorial (capitals, dashes in headings).",
+  "The Constitution's 2014-12-31 expression (a consolidation as at 31 December 2014, from MalawiLII's earlier site, archived with its text on 2022-02-17) is left out: MalawiLII no longer lists it, and the shared adapter would date it as the act as enacted (ISSUES-malawi.md #3). The history starts at the 2017-12-31 consolidation (Fifth Revised Edition of the Laws of Malawi, L.R.O. 1/2018).",
   "The amending Acts' own MalawiLII pages (Act 32 of 2018, Act 13 of 2020, Act 32 of 2025) have no archived copy with their text, so their assent and Gazette dates are not given; their titles and the dates their changes took effect come from the amended act's own History and amendment list.",
   "Government gazettes were not used: MalawiLII's gazette pages are disallowed by its robots.txt and outside this build, and every date used here is stated by MalawiLII's expression pages. No OCR was used.",
   "Archives: every copy was read from the Internet Archive (raw id_ form) through scripts/gitlaw_common/wayback.py, at the machine-wide adaptive rate; Common Crawl's index (index.commoncrawl.org) timed out from this machine during the retrieval (2026-10-28, 21:55 to 23:10 UTC), so no Common Crawl copy is used, though lii.py tries it first.",

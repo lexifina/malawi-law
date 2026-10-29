@@ -8,7 +8,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `constitution/` | [Republic of Malawi (Constitution) Act](https://malawilii.org/akn/mw/act/1994/20) | 3 | 1994-05-18 to 2020-11-03 |
+| `constitution/` | [Republic of Malawi (Constitution) Act](https://malawilii.org/akn/mw/act/1994/20) | 2 | 2017-12-31 to 2020-11-03 |
 | `electoral-commission/` | [Electoral Commission Act](https://malawilii.org/akn/mw/act/1998/11) | 2 | 2014-12-31 to 2018-11-02 |
 | `elections/` | [Presidential, Parliamentary and Local Government Elections Act, 2023](https://malawilii.org/akn/mw/act/2023/10) | 1 | 2025-09-05 to 2025-09-05 |
 
@@ -16,8 +16,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | In force | Author |
 | --- | --- |
-| 1994-05-18 | Act 20 of 1994 (as enacted) |
-| 2017-12-31 | publisher (MalawiLII): 32 provision(s) unexplained |
+| 2017-12-31 | publisher (MalawiLII): oldest version available |
 | 2020-11-03 | Act 13 of 2020 |
 
 **Electoral Commission Act**
@@ -39,15 +38,15 @@ Each folder's `README.md` lists every provision, how often it changed and when.
 
 | Question | Command |
 | --- | --- |
-| What did sec-080 say on 1994-05-18? | `python tools/on.py 1994-05-18 constitution sec-080` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="1994-05-18T23:59:59Z" main -- constitution/sec-080.md):constitution/sec-080.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="1994-05-18T23:59:59Z" main -- constitution/sec-080.md; git show "$($r):constitution/sec-080.md"` |
-| Which law wrote each line? | `git blame constitution/sec-080.md` |
-| Every change, word by word | `git log -p --word-diff constitution/sec-080.md` |
+| What did sec-067 say on 2017-12-31? | `python tools/on.py 2017-12-31 constitution sec-067` |
+| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2017-12-31T23:59:59Z" main -- constitution/sec-067.md):constitution/sec-067.md` |
+| The same, in PowerShell | `$r = git rev-list -1 --before="2017-12-31T23:59:59Z" main -- constitution/sec-067.md; git show "$($r):constitution/sec-067.md"` |
+| Which law wrote each line? | `git blame constitution/sec-067.md` |
+| Every change, word by word | `git log -p --word-diff constitution/sec-067.md` |
 | Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
 | Everything one law changed | `git show law/<key>` (tags `law/<key>` mark each law's commit) |
-| The whole act on a date | `python tools/on.py 1994-05-18 constitution` |
-| Which law gave a provision its wording on a date | `python tools/on.py --law 1994-05-18 constitution sec-080` |
+| The whole act on a date | `python tools/on.py 2017-12-31 constitution` |
+| Which law gave a provision its wording on a date | `python tools/on.py --law 2017-12-31 constitution sec-067` |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 

@@ -133,5 +133,12 @@
    "ok": true,
    "ours": "2025-09-05"
   }
+ },
+ "rebuild": {
+  "commits": 5,
+  "history_tip": "d3fc8d682137cae6abc17bf883e12ceb38c16125",
+  "identical": true,
+  "main_identical": true,
+  "tags": 7
  }
 }

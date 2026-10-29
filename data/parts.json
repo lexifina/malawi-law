@@ -1,0 +1,48 @@
+{
+ "parts": {
+  "60-batch2.json": {
+   "acts": [
+    "access-to-information",
+    "child-care-protection-justice",
+    "corrupt-practices",
+    "criminal-procedure-evidence",
+    "deceased-estates",
+    "defence-force",
+    "electronic-transactions-cyber-security",
+    "employment",
+    "energy-regulation",
+    "forestry",
+    "insolvency",
+    "labour-relations",
+    "marriage-divorce-family-relations",
+    "police",
+    "tax-administration"
+   ],
+   "sha256": "5c57fb621e10ab4a0914064efee5f8c8e515e4482c6493153bad99964a456cdb"
+  },
+  "61-batch3.json": {
+   "acts": [
+    "communications",
+    "copyright",
+    "credit-reference-bureau",
+    "financial-crimes",
+    "hiv-and-aids-prevention-and-management",
+    "human-rights-commission",
+    "land-survey",
+    "lands-acquisition-and-compensation",
+    "liquid-fuels-and-gas-production-and-supply",
+    "local-government",
+    "national-parks-and-wildlife",
+    "payment-systems",
+    "property-valuation",
+    "public-procurement-and-disposal-of-public-assets",
+    "real-estate-management",
+    "revenue-appeals-tribunal",
+    "sectional-titles",
+    "trafficking-in-persons"
+   ],
+   "sha256": "504e50c14c4b10568c5c44917ba6588cb1f3d95ba64b257ce524f26202d0883f"
+  }
+ },
+ "schema": 1
+}

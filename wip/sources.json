@@ -1,10 +1,15 @@
 {
  "acts": {
   "1994/20": {
-   "copies_without_text": [
-    "2014-12-31"
-   ],
+   "copies_without_text": [],
    "expressions": {
+    "2014-12-31": {
+     "capture": "20220217095058",
+     "original": "https://malawilii.org/akn/mw/act/1994/20/eng@2014-12-31",
+     "sha256": "a41f23dd760d6f72139ebd2f26702a59f4c34339d3213a487592cd04d66175b8",
+     "url": "https://web.archive.org/web/20220217095058id_/https://malawilii.org/akn/mw/act/1994/20/eng@2014-12-31",
+     "via": "ia"
+    },
     "2017-12-31": {
      "capture": "20250929185747",
      "original": "https://malawilii.org/akn/mw/act/1994/20/eng@2017-12-31",

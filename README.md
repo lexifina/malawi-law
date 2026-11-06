@@ -1,5 +1,7 @@
 # Malawi: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Malawi's national law, which global-law reads at `malawi/national/acts/`.
+
 The law of Malawi as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a provision; `tools/on.py` gives the text in force on any day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `mw/`. Every version is a dated point-in-time version published by [MalawiLII](https://malawilii.org) on the Laws.Africa Peachjam platform.

@@ -59,6 +59,7 @@ Each change is credited to the amending Act MalawiLII's History names (`Act 13 o
 - Every version is parsed from an archived copy of its own dated expression page, whose sha256 is recorded with it; the last version of each act is the one MalawiLII publishes as current, with no later amendment listed and none waiting to be applied.
 - A second build from the same corpus gave identical hashes for all 42 history commits and 55 tags.
 - History is append-only: no merge commits and no commit date that goes backwards.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the amending Act MalawiLII's History names (`Act 13 o
 See [`LICENSE`](LICENSE). The texts are MalawiLII's, under CC BY-NC 4.0 with MalawiLII credited as the source, so they may be used only for non-commercial purposes; neither MalawiLII nor Laws.Africa endorses this repository. Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 

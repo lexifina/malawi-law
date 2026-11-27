@@ -138,3 +138,22 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and the Malawi-specific code, and chose the acts. No model wrote, summarised or transformed legal text: the text is parsed by deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and the Malawi-specific scripts, and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code is deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and the Malawi-specific scripts, and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code is deterministic code.
+
+## Sources added on 2026-11-27
+
+| Source | Address | Retrieved | Terms |
+| --- | --- | --- | --- |
+| Ministry of Justice | <https://www.justice.gov.mw/index.php/resources/laws-and-regulations> | 2026-11-27 | Disclaimer covers linking only; no reuse restriction stated |
+| Judiciary of Malawi | <https://www.judiciary.mw/resources/legal-instruments/acts-of-parliament>; judgments under <https://www.judiciary.mw/judgements> (private case-law repository) | 2026-11-27 | Disclaimer covers linking only; no reuse restriction stated |
+| FAOLEX (FAO), listed through ECOLEX | <https://www.ecolex.org/result/?type=legislation&xcountry=Malawi>, PDFs on faolex.fao.org | 2026-11-27 | FAO: reuse for non-commercial purposes with credit to FAOLEX. Secondary copy |
+| WIPO Lex | <https://www.wipo.int/wipolex/en/members/profile/MW> | 2026-11-27 | WIPO Lex terms of use; secondary copy |
+
+Not used: Parliament of Malawi (parliament.gov.mw: Cloudflare challenge); MalawiLII's live site (its terms forbid scraping; only archived copies are used, as before); the Malawi Law Commission (lawcommission.gov.mw no longer resolves).
+
+How the new texts are read and dated (runner in the Lexifina workspace, `scripts/malawi-law/runner/`):
+
+- `fetch.py` lists and fetches the sources, one request in flight per host about a second apart, more only after ten clean minutes, stopping at any 403 or challenge page. `build.py` reads each PDF's text layer (`pdfread.py`; no OCR: scans are held) into one file per section, with marginal notes as section titles and running heads left out (one `text.md` where the sections could not be split), and appends one commit per Act or instrument.
+- An Act as passed is dated by the commencement day printed under its long title, else its Gazette publication ("Published on ..."), else the record's entry-into-force or assent date; subsidiary legislation by the date printed in it or its record. Each commit says which, in `In-force-basis:`.
+- Consolidated texts (chapters of the Laws of Malawi) print no day they are as at and are held, among them the Penal Code (Cap. 7:01).
+- Official copies win: a FAOLEX or WIPO Lex copy is used only for an Act or notice number no official copy holds, and never for an Act already held from MalawiLII. Each such commit carries `Source-status: secondary copy (...)`.
+- Corrections are appended as `Kind: correction` commits; history is never rewritten.

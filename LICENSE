@@ -18,6 +18,20 @@ line; spacing, quotes and dashes were normalised; editorial notes, Part and Chap
 and the versions were arranged as git commits credited to the laws MalawiLII names for each change.
 The wording of the law was not changed. Neither MalawiLII nor Laws.Africa endorses this repository.
 
+Further sources (added 2026-11-27):
+
+  Ministry of Justice, Republic of Malawi, https://www.justice.gov.mw (Acts as passed). No reuse terms stated.
+
+  Judiciary of Malawi, https://www.judiciary.mw (Acts of Parliament). No reuse terms stated.
+
+  FAOLEX, Food and Agriculture Organization of the United Nations, https://www.fao.org/faolex/ (secondary
+  copies). Terms: reuse for non-commercial purposes with credit. Source: FAOLEX (FAO).
+
+  WIPO Lex, World Intellectual Property Organization, https://www.wipo.int/wipolex/ (secondary copies).
+  Terms: https://www.wipo.int/tools/en/disclaim.html
+
+The official texts are reproduced unaltered, without charge, with the source of each named in its commit.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
